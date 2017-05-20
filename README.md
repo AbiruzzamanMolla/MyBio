@@ -1,6 +1,6 @@
 ## MyBio
 
-MyBio is my first test Android Application which is Based in Onsen UI(HTML5) . To download go  [## here](https://drive.google.com/file/d/0BzQU_83hjGOqRUd6Zmd5eWtKU2s/view?usp=sharing)  and check it ou
+MyBio is my first test Android Application which is Based in Onsen UI(HTML5) . To download go  [here](https://drive.google.com/file/d/0BzQU_83hjGOqRUd6Zmd5eWtKU2s/view?usp=sharing)  and check it out.
 
 ## Installation
 
