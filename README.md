@@ -1,6 +1,6 @@
 ## MyBio
 
-MyBio is my first test Android Application which is Based in Onsen UI . To [Download](http://file.apk) go here and check it out. 
+MyBio is my first test Android Application which is Based in Onsen UI . To [Download](mybio.cordova.crosswalk.arm.201705191128.apk) go here and check it out. 
 
 ## Installation
 
@@ -15,18 +15,6 @@ How to install this app in your mobile.
 
 ### Previews
 ![Preview 1](/MyBio.gif)
-![Screenshot_2017-05-19-20-40-32-164_com.asliabir.mybio.png](Screenshot_2017-05-19-20-40-32-164_com.asliabir.mybio.png)	
- 
-![Screenshot_2017-05-19-20-40-46-594_com.asliabir.mybio.png](Screenshot_2017-05-19-20-40-46-594_com.asliabir.mybio.png)	
- 
-![Screenshot_2017-05-19-20-40-58-923_com.asliabir.mybio.png](Screenshot_2017-05-19-20-40-58-923_com.asliabir.mybio.png)
- 
-![Screenshot_2017-05-19-20-43-27-480_com.miui.home.png](Screenshot_2017-05-19-20-43-27-480_com.miui.home.png)	
- 
-![Screenshot_2017-05-19-20-40-40-411_com.asliabir.mybio.png](Screenshot_2017-05-19-20-40-40-411_com.asliabir.mybio.png)	
- 
-![Screenshot_2017-05-19-20-40-27-878_com.asliabir.mybio.png](Screenshot_2017-05-19-20-40-27-878_com.asliabir.mybio.png)
-
 
 ### Support or Contact
 
