@@ -1,36 +1,23 @@
-## Welcome to GitHub Pages
+## MyBio
 
-You can use the [editor on GitHub](https://github.com/asliabir/MyBio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+MyBio is my first test Android Application which is Based in Onsen UI . To [Download](http://file.apk) go here and check it out. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Installation
 
-### Markdown
+How to install this app in your mobile.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+```Installation
+1. First Download the .apk file.
+2. Place it into your device storage.
+3. Than just install like other software.
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Previews
+![Preview 1](/MyBio.gif)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asliabir/MyBio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
