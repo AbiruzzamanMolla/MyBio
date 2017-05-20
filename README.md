@@ -1,6 +1,6 @@
 ## MyBio
 
-MyBio is my first test Android Application which is Based in Onsen UI . To [Download](mybio.cordova.crosswalk.arm.201705191128.apk) go here and check it out. 
+MyBio is my first test Android Application which is Based in Onsen UI(HTML5) . To [Download](mybio.cordova.crosswalk.arm.201705191128.apk) go here and check it out. 
 
 ## Installation
 
@@ -18,5 +18,5 @@ How to install this app in your mobile.
 
 ### Support or Contact
 
-Having trouble with this app, email me at **abiruzzaman.molla@gmail.com**. 
+Having trouble with this application, email me at **abiruzzaman.molla@gmail.com**. 
 Thank you.
